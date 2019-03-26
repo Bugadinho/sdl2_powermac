@@ -1,3 +1,6 @@
+Uses patches made for Bitfighter: https://github.com/bitfighter/bitfighter
+
+
 
                          Simple DirectMedia Layer
 
